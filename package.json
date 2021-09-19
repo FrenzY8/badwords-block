@@ -10,7 +10,7 @@
     "discord",
     "bot"
   ],
-  "author": "Aaron",
+  "author": "Frenzy",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.2.1"
