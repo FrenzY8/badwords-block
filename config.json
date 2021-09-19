@@ -1,6 +1,4 @@
 {
-	"WORDS_BLACK_LIST" : ["FUCKS"],
-	"GUILD_ID" : "your_guild_id",
-	"BOT_ID": "your_app_id",
-	"BOT_TOKEN": "token"
+	"BOT_TOKEN" : "ODc1MjM2MTM2MTQ1MDE0ODM2.YRSlKw.f7mW-znRsqDNGkloh2Vu5veiwMk",
+	"FILTER_LIST" : ["darn", "shucks", "frak", "shite"]
 }
