@@ -10,6 +10,6 @@ client.on('ready', () => {
 
 
 client.on('message', message => {
-  if(config.WORDS_BLACK_LIST.some(word => message.content.toLowerCase().includes(word))){
+  if(config.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
   }})
