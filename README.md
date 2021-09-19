@@ -1,2 +1,2 @@
-# badwords-block
-an cool chat-filter bot for discord
+# Instalations
+you need first ```npm install``` and then ```node index.js```
