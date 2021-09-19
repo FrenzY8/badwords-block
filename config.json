@@ -1,0 +1,6 @@
+{
+	"WORDS_BLACK_LIST" : ["FUCKS"],
+	"GUILD_ID" : "your_guild_id",
+	"BOT_ID": "your_app_id",
+	"BOT_TOKEN": "token"
+}
