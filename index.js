@@ -10,7 +10,7 @@ client.on("ready", () => {
 });
 
 
-client.on('message', message => {
+client.on('message', message async member => {
   if(config.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
 // if you want the bot sending message after delete message =>
