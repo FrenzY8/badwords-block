@@ -1,5 +1,8 @@
-# Instalations
+# INSTALATIONS
 you need first ```npm install``` and then ```node index.js```
+
+# HAVE ANY ISSUES / ERROR?
+just posted it in issues
 
 # NOTES
 the node_modules sometime can error, so i told you to ```npm install``` for once again, after clone this  bot
