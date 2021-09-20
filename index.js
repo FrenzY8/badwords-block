@@ -13,10 +13,6 @@ client.on("ready", () => {
 client.on('message', message async member => {
   if(config.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
-// if you wanna give the punishment roles, here you go. but remember to give role above than normal member  
-/*  const role = member.guild.roles.cache.get('punishment_role_id')
-  await member.roles.add(role.id) */
-  
 // if you want the bot sending message after delete message =>
     // message.channel.send("i have deleted your messagess cause included Badwords in my ```config.json```");
     
