@@ -1,4 +1,5 @@
 {
 	"BOT_TOKEN" : "ODc1MjM2MTM2MTQ1MDE0ODM2.YRSlKw.f7mW-znRsqDNGkloh2Vu5veiwMk",
-	"FILTER_LIST" : ["dumb", "bitches", "gay"]
+	"FILTER_LIST" : ["dumb", "bitches", "gay"],
+	"BOT_NAME" : "the_bot_names"
 }
