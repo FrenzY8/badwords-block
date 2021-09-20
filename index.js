@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
-
+const { FILTER_LIST, BOT_TOKEN } = require('./config.json');
 
 client.login(config.BOT_TOKEN).catch(console.error);
 client.on("ready", () => {
@@ -9,6 +9,17 @@ client.on("ready", () => {
 console.log(`Logged in as ${client.user.tag}`)
 });
 
+client.on('message', message => {
+  if(message.content.startsWith('!help')) {
+    message.author.send(`
+    
+My List Words :
+${FILTER_LIST}    
+    
+    `)
+  }
+
+})
 
 client.on('message', async message => {
   if(config.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
