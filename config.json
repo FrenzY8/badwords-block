@@ -1,5 +1,5 @@
 {
 	"BOT_TOKEN" : "TOKEN_OR_YOU_CAN_USE_.ENV",
-	"FILTER_LIST" : ["dumb", "bitches", "gay"],
+	"FILTER_LIST" : ["dumb", "bitches", "gay", "discord.gg", "https"],
 	"BOT_NAME" : "the_bot_names"
 }
