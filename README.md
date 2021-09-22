@@ -2,11 +2,11 @@
 you need first ```npm install``` and then ```node index.js```
 
 # Visit Our Websites and Bots
-https://frenzybotdev.odoo.com
+- https://frenzybotdev.odoo.com
 
-Visit Our Discord bot (Used by 5k User)
+- Visit Our Discord bot (Used by 5k User)
 https://top.gg/bot/880306203253698631
-Visit Our 2nd bot (99 Servers)
+- Visit Our 2nd bot (99 Servers)
 https://top.gg/bot/884970658004619294
 
 ## ☀ TULISAN BAHASA INDONESIA :)
