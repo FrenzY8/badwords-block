@@ -1,3 +1,21 @@
+/* 
+
+Code With :
+iMix
+iCrawl
+Frenzy
+
+Visit Our Websites
+frenzybotdev.odoo.com
+
+Visit Our Discord bot (Used by 5k User)
+https://top.gg/bot/880306203253698631
+
+Visit Our 2nd bot (99 Servers)
+https://top.gg/bot/884970658004619294
+
+*/
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 // LOADED THE CONFIGS
@@ -14,10 +32,11 @@ console.log(`Logged in as ${client.user.tag}`)
 client.on('message', message => {
   if(message.content.startsWith('!help')) { // wil sending you a filter list / words that blocked in your server
     message.author.send(`
-    
+frenzybotdev.odoo.com
 My List Words :
 ${FILTER_LIST}    
-    
+frenzybotdev.odoo.com
+
     `)
   }
 
@@ -33,3 +52,5 @@ client.on('message', async message => {
 // or you want to warn the user via dm =>
     // message.author.send("im beggins to you, please dont toxic anymores!")
   }})
+
+// Powered by frenzybotdev.odoo.com
