@@ -1,8 +1,13 @@
-# Visit Our Websites and Bots
+<h1 align="center" height="500px">| Block Some Words Discord Bot |</h1>
+<p align="center">
+<img src="./assets/lol.jpg"/>
+<a align="center">
+<h1 align="center" height="500px">Our Website and Bots</h1>
 - https://frenzybotdev.odoo.com
-
+    
 - Visit Our Discord bot (Used by 5k User)
 https://top.gg/bot/880306203253698631
+    
 - Visit Our 2nd bot (99 Servers)
 https://top.gg/bot/884970658004619294
 
