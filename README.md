@@ -1,6 +1,3 @@
-# 🎏 INSTALATIONS 🎏
-you need first ```npm install``` and then ```node index.js```
-
 # Visit Our Websites and Bots
 - https://frenzybotdev.odoo.com
 
