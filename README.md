@@ -1,6 +1,9 @@
 # 🎏 INSTALATIONS 🎏
 you need first ```npm install``` and then ```node index.js```
 
+# Visit Our Websites
+frenzybotdev.odoo.com
+
 ## ☀ TULISAN BAHASA INDONESIA :)
 jika anda menginstall package menggunakan ``setup.bat`` kemungkinan besar anda akan mengalami error seperti bacaan di paling atas!,
 saya saran kan anda menginstall package dengan cara :
