@@ -6,13 +6,15 @@ https://top.gg/bot/880306203253698631
 - Visit Our 2nd bot (99 Servers)
 https://top.gg/bot/884970658004619294
 
-## ☀ TULISAN BAHASA INDONESIA :)
-jika anda menginstall package menggunakan ``setup.bat`` kemungkinan besar anda akan mengalami error seperti bacaan di paling atas!,
-saya saran kan anda menginstall package dengan cara :
+## ☀ TULISAN BAHASA INDONESIA
+jika anda menginstall package menggunakan ``setup.bat`` kemungkinan anda akan mendapatkan package missing, maka dari itu coba
+ikutin langa langka saya :
 - **BUKA REPLIT DI BROWSER**
 - ketik dalam console :
 ``npm install``
 - jika sudah kalian bisa ``node index.js`` dan jangan lupa ya untuk mengisi token anda di  ``config.json``
+
+- Di repository ini sendiri sudah memiliki ```node_modules``` jadi kalian bisa langsung untuk ```node index.js```
 
 ## 🌙 TERIMA KASIH
 terima kasih telah menggunakan source project ini,
