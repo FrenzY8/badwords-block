@@ -90,6 +90,7 @@ console.log(`>> Logged in as ${client.user.tag} in ${today}`.blue) // spamming l
 console.log(">> github.com/FrenzY8". green) // spamming lol xd
 console.log(">> Powered by frenzybotdev.odoo.com".blue) // spamming lol xd
 console.log(">> Ascii by Frenzy".green) // spamming lol xd
+  console.log(`Protecting ${FILTER_LIST} froma words`)
 });
 // first command, wait, i told you, this not a command bot, just a delete messages
 client.on('message', message => {
