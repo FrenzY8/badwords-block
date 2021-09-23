@@ -43,6 +43,12 @@ jika ada masalah baru tetapi tidak dijelaskan oleh saya bagaimana cara memperbai
 <sub><b>iCrawl</b></sub><br /></td>
   </tr>
 </table>
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/mrx-0101"
+<sub><b>MRX-0101</b></sub><br /></td>
+  </tr>
+</table>
 
 # ✨ NOTES ✨
 the node_modules sometime can error, so i told you to ```npm install``` for once again, after clone this  bot
