@@ -4,8 +4,6 @@
 <a align="center">
 <h1 align="center" height="500px">Our Website and Bots</h1>
 
-- https://frenzybotdev.odoo.com
-    
 - Visit Our Discord bot (Used by 5k User)
 https://top.gg/bot/880306203253698631
     
